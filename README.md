@@ -47,8 +47,6 @@
 
 ![image](https://github.com/user-attachments/assets/a3f01949-261f-422f-b663-0944518fc68b)
 
-### Name: MERCY A
-### Register Number: 212223110027
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
